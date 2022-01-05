@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.site-statistic-demo-card {
+  padding: 10px;
+  /* padding-top:10px; */
+  background: #ececec;
+}
+  [data-theme="dark"] .site-statistic-demo-card {
+    /* background: #303030; */
+  }
